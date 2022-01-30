@@ -33,7 +33,7 @@ export const de = endent`
   <h2>Kontakt</h2>
   <p>
     E-Mail: <a href="mailto:info@sebastianlandwehr.com">info@sebastianlandwehr.com</a><br>
-    Phone: +49 177 5055641<br>
+    Telefon: +49 177 5055641<br>
   </p>
 
   <h2>Redaktionell verantwortlich gemäß § 55 Abs. 2 RStV</h2>
