@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/legal-notice/compare/v1.0.3...v1.0.4) (2022-01-30)
+
+
+### Bug Fixes
+
+* foo ([a08977b](https://github.com/dword-design/legal-notice/commit/a08977b813b416ad41d5c674bde78f022147c2fe))
+
 ## [1.0.3](https://github.com/dword-design/legal-notice/compare/v1.0.2...v1.0.3) (2022-01-30)
 
 
