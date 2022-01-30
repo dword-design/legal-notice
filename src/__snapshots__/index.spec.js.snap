@@ -11,7 +11,7 @@ exports[`index de 1`] = `
 
 <h3>Kontakt</h3>
 <p>
-  E-Mail: <a href=\\"mailto:info@sebastianlandwehr.com\\">info@sebastianlandwehr.com</a><br>
+  E-Mail: info@sebastianlandwehr.com<br>
   Telefon: +49 177 5055641<br>
 </p>
 
@@ -35,7 +35,7 @@ exports[`index en 1`] = `
 
 <h3>Contact</h3>
 <p>
-  Email: <a href=\\"mailto:info@sebastianlandwehr.com\\">info@sebastianlandwehr.com</a><br>
+  Email: info@sebastianlandwehr.com<br>
   Phone: +49 177 5055641<br>
 </p>
 

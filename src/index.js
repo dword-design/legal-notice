@@ -16,7 +16,7 @@ export const en = endent`
 
   <h3>Contact</h3>
   <p>
-    Email: <a href="mailto:${personalData.email}">${personalData.email}</a><br>
+    Email: ${personalData.email}<br>
     Phone: ${personalData.phoneNumber}<br>
   </p>
 
@@ -36,7 +36,7 @@ export const de = endent`
 
   <h3>Kontakt</h3>
   <p>
-    E-Mail: <a href="mailto:${personalData.email}">${personalData.email}</a><br>
+    E-Mail: ${personalData.email}<br>
     Telefon: ${personalData.phoneNumber}<br>
   </p>
 
