@@ -1,49 +1,48 @@
 import { endent } from '@dword-design/functions'
+import * as personalData from '@dword-design/personal-data'
+
+const addressMarkup = endent`
+  ${personalData.name}<br>
+  ${personalData.street}<br>
+  ${personalData.postalCode} ${personalData.city}
+`
 
 export const en = endent`
-  <h1>Legal Notice</h1>
+  <h2>Legal Notice</h2>
   <p>
-    Sebastian Landwehr<br>
-    Breite Str. 20<br>
-    53111 Bonn<br>
+    ${addressMarkup}<br>
     Germany
   </p>
 
-  <h2>Contact</h2>
+  <h3>Contact</h3>
   <p>
-    Email: <a href="mailto:info@sebastianlandwehr.com">info@sebastianlandwehr.com</a><br>
-    Phone: +49 177 5055641<br>
+    Email: <a href="mailto:${personalData.email}">${personalData.email}</a><br>
+    Phone: ${personalData.phoneNumber}<br>
   </p>
 
-  <h2>Person responsible for content in accordance with § 55 Abs. 2 RStV</h2>
+  <h3>Person responsible for content in accordance with § 55 Abs. 2 RStV</h3>
   <p>
-    Sebastian Landwehr<br>
-    Breite Str. 20<br>
-    53111 Bonn<br>
+    ${addressMarkup}<br>
     Germany
   </p>
 `
 
 export const de = endent`
-  <h1>Impressum</h1>
+  <h2>Impressum</h2>
   <p>
-    Sebastian Landwehr<br>
-    Breite Str. 20<br>
-    53111 Bonn<br>
+    ${addressMarkup}<br>
     Deutschland
   </p>
 
-  <h2>Kontakt</h2>
+  <h3>Kontakt</h3>
   <p>
-    E-Mail: <a href="mailto:info@sebastianlandwehr.com">info@sebastianlandwehr.com</a><br>
-    Telefon: +49 177 5055641<br>
+    E-Mail: <a href="mailto:${personalData.email}">${personalData.email}</a><br>
+    Telefon: ${personalData.phoneNumber}<br>
   </p>
 
-  <h2>Redaktionell verantwortlich gemäß § 55 Abs. 2 RStV</h2>
+  <h3>Redaktionell verantwortlich gemäß § 55 Abs. 2 RStV</h3>
   <p>
-    Sebastian Landwehr<br>
-    Breite Str. 20<br>
-    53111 Bonn<br>
+    ${addressMarkup}<br>
     Deutschland
   </p>
 `

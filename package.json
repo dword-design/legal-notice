@@ -19,7 +19,8 @@
     "test": "base test"
   },
   "dependencies": {
-    "@dword-design/functions": "^4.0.7"
+    "@dword-design/functions": "^4.0.7",
+    "@dword-design/personal-data": "^1.0.1"
   },
   "devDependencies": {
     "@dword-design/base": "^8.6.13"

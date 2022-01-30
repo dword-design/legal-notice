@@ -1367,6 +1367,13 @@
     lodash "^4.17.15"
     tinycolor2 "^1.4.1"
 
+"@dword-design/personal-data@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@dword-design/personal-data/-/personal-data-1.0.1.tgz#2f564f4c10c06c189e23b899148d54d4101b0522"
+  integrity sha512-qD8ihxt/i39/oQsOipovRVOET67yEMINu1SYP7Z5PGFq8Yy8476n27oqCZZ0sjXBXhIDCn1+H/5SD74bYcfEFA==
+  dependencies:
+    "@dword-design/functions" "^4.0.7"
+
 "@endemolshinegroup/cosmiconfig-typescript-loader@^3.0.2":
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/@endemolshinegroup/cosmiconfig-typescript-loader/-/cosmiconfig-typescript-loader-3.0.2.tgz#eea4635828dde372838b0909693ebd9aafeec22d"
@@ -3425,12 +3432,7 @@ decode-uri-component@^0.2.0:
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
   integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
 
-dedent@0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
-  integrity sha1-JJXduvbrh0q7Dhvp3yLS5aVEMmw=
-
-dedent@dword-design/dedent#fork:
+dedent@0.7.0, dedent@dword-design/dedent#fork:
   version "0.7.0"
   resolved "https://codeload.github.com/dword-design/dedent/tar.gz/c8d46e5017d60504657c2d01b59082c0329a12a7"
   dependencies:
