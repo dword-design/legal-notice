@@ -5,7 +5,8 @@ export const en = endent`
   <p>
     Sebastian Landwehr<br>
     Breite Str. 20<br>
-    53111 Bonn
+    53111 Bonn<br>
+    Germany
   </p>
 
   <h2>Contact</h2>
@@ -18,7 +19,8 @@ export const en = endent`
   <p>
     Sebastian Landwehr<br>
     Breite Str. 20<br>
-    53111 Bonn
+    53111 Bonn<br>
+    Germany
   </p>
 `
 
@@ -27,7 +29,8 @@ export const de = endent`
   <p>
     Sebastian Landwehr<br>
     Breite Str. 20<br>
-    53111 Bonn
+    53111 Bonn<br>
+    Deutschland
   </p>
 
   <h2>Kontakt</h2>
@@ -40,6 +43,7 @@ export const de = endent`
   <p>
     Sebastian Landwehr<br>
     Breite Str. 20<br>
-    53111 Bonn
+    53111 Bonn<br>
+    Deutschland
   </p>
 `
