@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dword-design/legal-notice/compare/v1.0.4...v1.0.5) (2023-01-08)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#17](https://github.com/dword-design/legal-notice/issues/17)) ([8957726](https://github.com/dword-design/legal-notice/commit/8957726228dce59e652e4f70bf31dd154e8d55af))
+
 ## [1.0.4](https://github.com/dword-design/legal-notice/compare/v1.0.3...v1.0.4) (2022-01-30)
 
 
