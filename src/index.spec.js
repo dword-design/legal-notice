@@ -1,4 +1,4 @@
-import * as self from '.'
+import * as self from './index.js'
 
 export default {
   de() {
