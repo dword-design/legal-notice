@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/legal-notice/compare/v1.0.5...v1.0.6) (2023-04-09)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4.1.7 ([ad6743c](https://github.com/dword-design/legal-notice/commit/ad6743c316ebebc1b6fed9a1d9cd7642976ddbf6))
+
 ## [1.0.5](https://github.com/dword-design/legal-notice/compare/v1.0.4...v1.0.5) (2023-01-08)
 
 
