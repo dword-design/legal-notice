@@ -1,4 +1,5 @@
 .DS_Store
+.browserslistrc
 /.env.json
 /.nyc_output
 /.test.env.json

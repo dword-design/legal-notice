@@ -3,6 +3,7 @@
   "files.autoSave": "off",
   "files.exclude": {
     ".babelrc.json": true,
+    ".browserslistrc": true,
     ".commitlintrc.json": true,
     ".cz.json": true,
     ".devcontainer": true,
