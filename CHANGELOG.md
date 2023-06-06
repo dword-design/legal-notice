@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/dword-design/legal-notice/compare/v1.0.6...v2.0.0) (2023-06-06)
+
+
+### Features
+
+* lock file maintenance ([#33](https://github.com/dword-design/legal-notice/issues/33)) ([a1a2bbb](https://github.com/dword-design/legal-notice/commit/a1a2bbb34da08da90df3cf35849a57c5230a1a5e))
+
+
+### BREAKING CHANGES
+
+* Drop Node 14 support
+* It is now a Vue component
+
 ## [1.0.6](https://github.com/dword-design/legal-notice/compare/v1.0.5...v1.0.6) (2023-04-09)
 
 
