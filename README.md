@@ -54,7 +54,7 @@
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->
-## Install
+## Install via a package manager
 
 ```bash
 # npm
@@ -62,6 +62,43 @@ $ npm install @dword-design/legal-notice
 
 # Yarn
 $ yarn add @dword-design/legal-notice
+```
+
+Add to local components:
+
+```html
+<script>
+import LegalNotice from '@dword-design/legal-notice'
+
+export default {
+  components: {
+    LegalNotice,
+  },
+}
+</script>
+```
+
+Or register as a global component:
+
+```js
+import LegalNotice from '@dword-design/legal-notice'
+
+app.component('LegalNotice', LegalNotice)
+```
+
+Or register as a plugin:
+
+```js
+import LegalNotice from '@dword-design/legal-notice'
+
+app.use(LegalNotice)
+```
+
+## Install via CDN
+
+```html
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="https://unpkg.com/@dword-design/legal-notice"></script>
 ```
 <!-- /INSTALL -->
 
