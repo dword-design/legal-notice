@@ -6,8 +6,8 @@ import { execaCommand } from 'execa';
 import fs from 'fs-extra';
 import getPort from 'get-port';
 import nuxtDevReady from 'nuxt-dev-ready';
-import kill from 'tree-kill-promise';
 import pretty from 'pretty';
+import kill from 'tree-kill-promise';
 
 test('de', async ({ page }, testInfo) => {
   const cwd = testInfo.outputPath();
