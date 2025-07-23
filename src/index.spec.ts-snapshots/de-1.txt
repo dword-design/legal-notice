@@ -1,0 +1,7 @@
+<!--[-->
+<h2>Impressum</h2>
+<p><!--[-->Sebastian Landwehr<br> Breite Str. 20<br> 53111 Bonn<!--]--><br> Deutschland </p>
+<h3>Kontakt</h3>
+<p> E-Mail: info@sebastianlandwehr.com<br> Telefon: +49 177 5055641<br></p>
+<h3>Redaktionell verantwortlich gemäß § 55 Abs. 2 RStV</h3>
+<p><!--[-->Sebastian Landwehr<br> Breite Str. 20<br> 53111 Bonn<!--]--><br> Deutschland </p><!--]-->

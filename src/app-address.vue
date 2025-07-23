@@ -4,6 +4,6 @@
   {{ personalData.postalCode }} {{ personalData.city }}
 </template>
 
-<script setup>
-import * as personalData from '@dword-design/personal-data'
+<script setup lang="ts">
+import * as personalData from '@dword-design/personal-data';
 </script>
