@@ -39,13 +39,10 @@
   </template>
 </template>
 
-<script setup>
-import * as personalData from '@dword-design/personal-data'
-import { defineProps } from 'vue'
+<script setup lang="ts">
+import * as personalData from '@dword-design/personal-data';
 
-import AppAddress from './app-address.vue'
+import AppAddress from './app-address.vue';
 
-defineProps({
-  locale: { required: true, type: String },
-})
+defineProps({ locale: { required: true, type: String } });
 </script>

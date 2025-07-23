@@ -1,0 +1,7 @@
+<!--[-->
+<h2>Legal Notice</h2>
+<p><!--[-->Sebastian Landwehr<br> Breite Str. 20<br> 53111 Bonn<!--]--><br> Germany </p>
+<h3>Contact</h3>
+<p> Email: info@sebastianlandwehr.com<br> Phone: +49 177 5055641<br></p>
+<h3>Person responsible for content in accordance with § 55 Abs. 2 RStV</h3>
+<p><!--[-->Sebastian Landwehr<br> Breite Str. 20<br> 53111 Bonn<!--]--><br> Germany </p><!--]-->
