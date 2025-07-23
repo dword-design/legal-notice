@@ -1,3 +1,17 @@
+# [3.0.0](https://github.com/dword-design/legal-notice/compare/v2.0.0...v3.0.0) (2025-07-23)
+
+
+### Bug Fixes
+
+* foo ([3389e09](https://github.com/dword-design/legal-notice/commit/3389e09d379edaa3dc5b6978ac89253ff0cd3db5))
+* foo ([955357e](https://github.com/dword-design/legal-notice/commit/955357e7c8cfcc2cac0ed865e9523407a17e81cd))
+* lock file maintenance ([#36](https://github.com/dword-design/legal-notice/issues/36)) ([2ba0128](https://github.com/dword-design/legal-notice/commit/2ba0128e9ecda227c6c285e476a35a7b0673d2a8))
+
+
+### BREAKING CHANGES
+
+* node.js >= 20
+
 # [2.0.0](https://github.com/dword-design/legal-notice/compare/v1.0.6...v2.0.0) (2023-06-06)
 
 
