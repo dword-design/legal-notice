@@ -25,7 +25,7 @@
     "verify": "base verify"
   },
   "dependencies": {
-    "@dword-design/personal-data": "^3.0.0"
+    "@dword-design/personal-data": "^4.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^15.1.6",

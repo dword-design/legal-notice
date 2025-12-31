@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@dword-design/personal-data':
-        specifier: ^3.0.0
-        version: 3.0.0
+        specifier: ^4.0.0
+        version: 4.0.0
       vue:
         specifier: ^3
         version: 3.5.18(typescript@5.8.3)
@@ -315,6 +315,7 @@ packages:
   '@dword-design/defu@1.0.3':
     resolution: {integrity: sha512-QEM8a6CPIrMvudnuNDwr3IxWJ0dcMKG9tgxt3zuPk/NmXV0ejk4qxQJ1PfquJwRzu59UsqNpUAACMG485VMIUA==}
     engines: {node: '>=18'}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@dword-design/depcheck-parser-sass@4.0.4':
     resolution: {integrity: sha512-liMT6tgQ/YfhNgW6rigOaY0XqfNMMFb+DCwEeLtfBdTJhMUEHwBb8UsChw8uwrxMSQW/YsabfnDsT897pBmBlg==}
@@ -364,6 +365,10 @@ packages:
   '@dword-design/personal-data@3.0.0':
     resolution: {integrity: sha512-ZC0Wb4O5hQB0016zjut7OMIa/x4ZU40caQHymCQNZIPOE9R54yfWMKfmsU337KPJaXBBWo0d15UhcOzRTJkG6w==}
     engines: {node: '>=20'}
+
+  '@dword-design/personal-data@4.0.0':
+    resolution: {integrity: sha512-CiQ455Gspzmr9KrWJMAaO+hYGH2i5KnbjFTp1ZXKrm6x1Nbhtz1lLNVvbpNVvEPgAyVtane+FhHPgnQHU9SUgw==}
+    engines: {node: '>=22'}
 
   '@dword-design/plugin-name-to-package-name@0.1.2':
     resolution: {integrity: sha512-kATg/RzRkq/Yv0qNJziPqwAzKstBTzuXnowH4MvAMyqW6C7o5HlgZtik3GzO0kBKCBZBoRswBSvo9AHclOTxfg==}
@@ -7255,6 +7260,10 @@ snapshots:
       ini: 1.3.8
 
   '@dword-design/personal-data@3.0.0':
+    dependencies:
+      endent: '@dword-design/endent@1.4.7'
+
+  '@dword-design/personal-data@4.0.0':
     dependencies:
       endent: '@dword-design/endent@1.4.7'
 
