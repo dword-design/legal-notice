@@ -39,7 +39,7 @@
     "nuxt": "^3.5.2",
     "nuxt-dev-ready": "^2.0.1",
     "pretty": "^2.0.0",
-    "tree-kill-promise": "^3.0.14"
+    "tree-kill-promise": "^5.0.0"
   },
   "peerDependencies": {
     "vue": "^3"
