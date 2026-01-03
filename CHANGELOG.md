@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/dword-design/legal-notice/compare/v3.0.0...v4.0.0) (2026-01-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v16 ([#58](https://github.com/dword-design/legal-notice/issues/58)) ([42bc67e](https://github.com/dword-design/legal-notice/commit/42bc67e35daadc4572342d43e63e0403d8bac0da))
+
+
+### BREAKING CHANGES
+
+* node >= 22
+
 # [3.0.0](https://github.com/dword-design/legal-notice/compare/v2.0.0...v3.0.0) (2025-07-23)
 
 
