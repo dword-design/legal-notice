@@ -40,7 +40,7 @@ test('de', async ({ page }, testInfo) => {
     await page.goto(`http://localhost:${port}`);
     expect(pretty(await page.locator('.self').innerHTML())).toMatchSnapshot();
   } finally {
-    await kill(nuxt.pid);
+    await kill(nuxt.pid!);
   }
 });
 
@@ -75,6 +75,6 @@ test('en', async ({ page }, testInfo) => {
     await page.goto(`http://localhost:${port}`);
     expect(pretty(await page.locator('.self').innerHTML())).toMatchSnapshot();
   } finally {
-    await kill(nuxt.pid);
+    await kill(nuxt.pid!);
   }
 });
