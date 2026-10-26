@@ -47,7 +47,7 @@
     "fs-extra": "^11.3.3",
     "get-port": "^7.1.0",
     "nuxt": "^4.2.2",
-    "nuxt-dev-ready": "^5.0.1",
+    "nuxt-dev-ready": "^6.0.0",
     "pretty": "^2.0.0",
     "tree-kill-promise": "^5.0.0"
   },
